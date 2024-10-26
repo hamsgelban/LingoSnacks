@@ -1,0 +1,173 @@
+[
+  {
+    "author": {
+      "fname": "",
+      "lname": "",
+      "email": "roaa@xyz.com",
+      "password": "yagdt67",
+      "id": "27818437"
+    },
+    "category": "Education",
+    "description": "This is a sample learning package.",
+    "iconUrl": "https://example.com/package-icon.png",
+    "keywords": [
+      "learning",
+      "education",
+      "sample"
+    ],
+    "language": "English",
+    "lastUpdatedDate": "31-10-2023",
+    "level": "Advanced",
+    "title": "Sample Learning Package",
+    "version": 1,
+    "words": [
+      {
+        "text": "ExampleWord",
+        "definitions": [
+          "Definition 1",
+          "Definition 2"
+        ],
+        "sentences": [
+          {
+            "Text": "I am a sentence."
+          },
+          {
+            "Text": "I am a sentence."
+          }
+        ]
+      },
+      {
+        "text": "ExampleWord",
+        "definitions": [
+          "Definition 1",
+          "Definition 2"
+        ],
+        "sentences": [
+          {
+            "Text": "I am a sentence."
+          },
+          {
+            "Text": "I am a sentence."
+          }
+        ]
+      }
+    ],
+    "packageId": "4560"
+  },
+
+  {
+    "author": {
+      "fname": "",
+      "lname": "",
+      "email": "roaa@xyz.com",
+      "password": "yagdt67",
+      "id": "278184437"
+    },
+    "category": "Art and culture",
+    "description": "This is a sample learning package.",
+    "iconUrl": "https://example.com/package-icon.png",
+    "keywords": [
+      "learning",
+      "education",
+      "sample"
+    ],
+    "language": "English",
+    "lastUpdatedDate": "31-10-2023",
+    "level": "Advanced",
+    "title": "Art and culture",
+    "version": 1,
+    "words": [
+      {
+        "text": "ExampleWord",
+        "definitions": [
+          "Definition 1",
+          "Definition 2"
+        ],
+        "sentences": [
+          {
+            "Text": "I am a sentence."
+          },
+          {
+            "Text": "I am a sentence."
+          }
+        ]
+      },
+      {
+        "text": "ExampleWord",
+        "definitions": [
+          "Definition 1",
+          "Definition 2"
+        ],
+        "sentences": [
+          {
+            "Text": "I am a sentence."
+          },
+          {
+            "Text": "I am a sentence."
+          }
+        ]
+      }
+    ],
+    "packageId": "4561"
+  }
+
+  ,
+
+  {
+    "author": {
+      "fname": "",
+      "lname": "",
+      "email": "roaa@xyz.com",
+      "password": "yagdt67",
+      "id": "278184437"
+    },
+    "category": "Travel",
+    "description": "This is a sample learning package.",
+    "iconUrl": "https://example.com/package-icon.png",
+    "keywords": [
+      "learning",
+      "education",
+      "sample"
+    ],
+    "language": "English",
+    "lastUpdatedDate": "31-10-2023",
+    "level": "Advanced",
+    "title": "Traveling",
+    "version": 1,
+    "words": [
+      {
+        "text": "ExampleWord",
+        "definitions": [
+          "Definition 1",
+          "Definition 2"
+        ],
+        "sentences": [
+          {
+            "Text": "I am a sentence."
+          },
+          {
+            "Text": "I am a sentence."
+          }
+        ]
+      },
+      {
+        "text": "ExampleWord",
+        "definitions": [
+          "Definition 1",
+          "Definition 2"
+        ],
+        "sentences": [
+          {
+            "Text": "I am a sentence."
+          },
+          {
+            "Text": "I am a sentence."
+          }
+        ]
+      }
+    ],
+    "packageId": "4561"
+  }
+
+
+]

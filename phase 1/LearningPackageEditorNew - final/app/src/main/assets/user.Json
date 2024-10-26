@@ -1,0 +1,15 @@
+[
+  {"fname":"Ahmed",
+    "lname":"Doe",
+    "email":"ahmed@example.com",
+    "password":"Secure@9",
+    "id":"38330320"},
+
+
+  {"fname":"John",
+    "lname":"Dora",
+    "email":"johndoe@example.com",
+    "password":"Secure@2",
+    "id":"56964948"}
+
+]
